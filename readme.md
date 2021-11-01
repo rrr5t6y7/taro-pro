@@ -33,10 +33,10 @@ npm info @tarojs/cli
 
 ```
 # clone项目(default master)
-$ git clone http://code.lingzhi.com/fed/rainbow/miniapp.git
+$ git clone https://github.com/rrr5t6y7/taro-pro.git
 
 # 进入项目根目录
-$ cd miniapp
+$ cd taro-pro
 
 # 使用 yarn 安装依赖
 $ yarn
@@ -68,7 +68,7 @@ $ -
 
 ```
 
-## 封装细节
+## 其他
 
 #### 接口（支持 async/await）
 
