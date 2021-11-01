@@ -1,4 +1,4 @@
-# 天虹跨端小程序框架
+# 跨端小程序框架
 
 ## 配套
 
@@ -67,3 +67,11 @@ $ yarn dev:all & npm run dev:all
 $ -
 
 ```
+
+## 封装细节
+
+#### 接口（支持 async/await）
+
+#### 数据可通过 useState、useReducer 或者 mobx 操作
+
+#### 无 ts
