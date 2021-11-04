@@ -63,7 +63,7 @@ var App = Object(mobx_react__WEBPACK_IMPORTED_MODULE_2__[/* observer */ "d"])(fu
     name: "React-router"
   }];
   var tabList = [{
-    title: "首页展示dde"
+    title: "首页展示ede"
   }, {
     title: "接口示例"
   }, {

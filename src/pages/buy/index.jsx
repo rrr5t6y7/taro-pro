@@ -4,7 +4,7 @@
  * @Description: 这个页面展示taro-hooks下的生命周期，以及整个购物流程
  * @Date: 2021-10-26 10:52:27
  * @Last Modified by: JJ
- * @Last Modified time: 2021-11-01 15:06:22
+ * @Last Modified time: 2021-11-01 15:37:33
  */
 import React, { useEffect, useState, useReducer } from "react";
 import { observer, MobXProviderContext } from "mobx-react";

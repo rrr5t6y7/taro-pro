@@ -1,8 +1,8 @@
 {
-  "miniprogramRoot": "./",
+  "miniprogramRoot": "dist/tt6",
   "projectname": "miniapp",
   "description": "",
-  "appid": "wxb4fc289d27c4c88a",
+  "appid": "tt464030fdd979d6a401",
   "setting": {
     "urlCheck": true,
     "es6": false,
